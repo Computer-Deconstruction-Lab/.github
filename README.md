@@ -1,3 +1,4 @@
+![Computer Deconstruction Lab (CDL)](./images/CDL-banner.jpg)
 # Computer Deconstruction Lab (CDL)
 
 **Welcome** to the Computer Deconstruction Lab (CDL, aka IXR) — a community Makerspace and Podcast Studio down the Jersey Shore.
@@ -12,7 +13,7 @@ CDL is a **501(c)3 non-profit Makerspace / Hackerspace and Podcasting Studio** l
 
 We are an open collective of geeks, artists, and techie-creative-types who come together to share tools, resources, knowledge, and ideas. We embrace the sharing of ideas and innovation, including open source hardware and software. We also host workshops and run classes on a wide range of topics.
 
-CDL is open to the public — **walk-ins are welcome!** A donation of $30 is suggested if you stay and participate. Monthly and yearly memberships are also available.
+CDL is open to the public — **walk-ins are welcome!** A donation of $25 is suggested if you stay and participate. Monthly ($50) and yearly ($500) memberships are also available.
 
 ---
 
@@ -20,7 +21,7 @@ CDL is open to the public — **walk-ins are welcome!** A donation of $30 is sug
 
 - **Lab Space** — Electronics workbenches, 6+ 3D printers, and a wide variety of tools and equipment for building and fixing things.
 - **Podcast Studio** — A fully equipped podcast recording studio.
-- **Classroom** — A dedicated classroom space (dedicated to Bertha Lordi), used for workshops and training sessions.
+- **Learning Center** — A dedicated Learning Center space (dedicated to Bertha Lordi), used for workshops and training sessions.
 
 ---
 
@@ -29,6 +30,7 @@ CDL is open to the public — **walk-ins are welcome!** A donation of $30 is sug
 | Event | Day | Time |
 |---|---|---|
 | Microcontroller Mondays & Podcast | Mondays | 7:00 PM – 10:00 PM |
+| Workshop Wednesdays | Wednesdays | 12:00 PM – 5:00 PM |
 | Learn to Solder Sundays | Sundays | 12:00 PM – 5:00 PM |
 
 ---
