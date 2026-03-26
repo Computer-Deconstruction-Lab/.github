@@ -1,5 +1,6 @@
 ![Computer Deconstruction Lab (CDL)](./images/CDL-banner.jpg)
 # Computer Deconstruction Lab (CDL)
+![Header](https://capsule-render.vercel.app/render?type=soft&color=yellow&height=200&section=header&text=Computer%20Deconstruction%20Lab%20%28CDL%29&fontSize=90)
 
 **Welcome** to the Computer Deconstruction Lab (CDL, aka IXR) — a community Makerspace and Podcast Studio down the Jersey Shore.
 
@@ -54,3 +55,7 @@ Wall Township, New Jersey 07719
 📅 [CDL Calendar (Google)](https://calendar.google.com/calendar/embed?src=compdeconlab%40gmail.com&ctz=America%2FNew_York)
 
 📧 [Join our mailing list on groups.io](https://groups.io/g/cdl) or subscribe directly: [cdl+subscribe@groups.io](mailto:cdl+subscribe@groups.io)
+
+### Status
+$\colorbox{green}{\color{black}{BUILD: PASSING}}$
+$\colorbox{red}{\color{white}{STABILITY: CRITICAL}}$
